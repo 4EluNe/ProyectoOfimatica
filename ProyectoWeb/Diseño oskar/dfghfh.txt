@@ -1,0 +1,8 @@
+<div id='cssmenu'>
+<ul>
+   <li><a href='#'><span>Inicio</span></a></li>
+   <li><a href='#'><span>Menú</span></a></li>
+   <li><a href='#'><span>FAQS</span></a></li>
+   <li><a href='#'><span>Contáctenos</span></a></li>
+</ul>
+</div>
